@@ -1,10 +1,43 @@
 .carousel-bg-changer{
     background-color: #FCEAE8;
 }
- 
-.shoes-area img{
+.categories{
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.categories img{
     width: 100px;
     height: 100px;
      
 }
+.panda-card{
+    border: 0;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.panda-card-footer{
+    border: 0;
+    background-color: white;
+    
+}
+.comment-section{
+    background-color: #FCEAE8;
+    height: 300px;
+    padding: 0;
+}
+.input-style{
+    width: 280px;
+    border: 0;
+}
+.border-radius-less{
+    border-radius: 10px;
+     
+}
+ 
  
